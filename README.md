@@ -1,6 +1,6 @@
-# Wassup!?
+# What's going on??
 
-I'm a builder with a long history of code and a passion for hardware development.
+I'm a builder with a history of code and a passion for hardware development.
 
 Check out my portfolio ~~here~~ \[link coming soon...\]
 
